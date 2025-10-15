@@ -1,10 +1,12 @@
+# Questão 00
+
 ### Primeira Questão - Exercício 00
 
-#### Objetivo da questão
+### **Objetivo da questão**
 
 Criar uma série de arquivos e diretórios, dando uma série de caracteríscias pré-definidas aos mesmos. Incluindo o número de bytes, hard links, symlinks, permissões e datas a horas específicas.
 
-#### Conhecimentos necessários:
+### Conhecimentos necessários:
 
 - **Permissões no Linux:**
     
